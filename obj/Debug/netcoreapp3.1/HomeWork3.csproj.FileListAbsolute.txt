@@ -1,0 +1,13 @@
+C:\Users\dell\Desktop\Sobira\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.exe
+C:\Users\dell\Desktop\Sobira\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.deps.json
+C:\Users\dell\Desktop\Sobira\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.runtimeconfig.json
+C:\Users\dell\Desktop\Sobira\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.runtimeconfig.dev.json
+C:\Users\dell\Desktop\Sobira\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.dll
+C:\Users\dell\Desktop\Sobira\HomeWork3\bin\Debug\netcoreapp3.1\HomeWork3.pdb
+C:\Users\dell\Desktop\Sobira\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.csprojAssemblyReference.cache
+C:\Users\dell\Desktop\Sobira\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Sobira\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\Sobira\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.AssemblyInfo.cs
+C:\Users\dell\Desktop\Sobira\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.dll
+C:\Users\dell\Desktop\Sobira\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.pdb
+C:\Users\dell\Desktop\Sobira\HomeWork3\obj\Debug\netcoreapp3.1\HomeWork3.genruntimeconfig.cache
